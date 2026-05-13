@@ -1,0 +1,4 @@
+WarehouseID,Name,Zone,Latitude,Longitude,Pincode,AreaSqFt,CapacityUnits,OperatingHours,Manager,Contact,Established
+WH-001,Central Hub,Alambagh,26.8092,80.9185,226005,28000,5000,06:00-22:00,Rajeev Sharma,+91-9450001001,2018-03-12
+WH-002,East Hub,Chinhat,26.871,81.0512,226028,19500,3200,07:00-21:00,Priya Verma,+91-9450002002,2020-07-04
+WH-003,North Hub,Vikas Nagar,26.9048,80.9735,226022,14800,2500,08:00-20:00,Anil Tiwari,+91-9450003003,2021-11-19
